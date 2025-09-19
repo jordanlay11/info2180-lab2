@@ -1,1 +1,3 @@
-# info2180-lab2
+# INFO2180-lab2
+
+This lab 2 is for Jordan Laylor.
